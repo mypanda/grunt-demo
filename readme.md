@@ -12,3 +12,5 @@
 
 * 1.0.0
     * JS代码压缩插件uglify
+* 1.0.1
+	* 自动载入插件的插件load-grunt-tasks
